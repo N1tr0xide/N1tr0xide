@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Angel%20Quintero&fontSize=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradient=linear-gradient(90deg,%237ea3fb,%23ef6ec1)&height=100&section=header&text=Angel%20Quintero&fontSize=60&font=Sans-serif"/>
 </p>
 
 <h3 align="center">About me</h3>
@@ -44,5 +44,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradient=linear-gradient(-90deg,%237ea3fb,%23ef6ec1)&height=100&section=footer"/>
 </p>
