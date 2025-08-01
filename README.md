@@ -1,4 +1,6 @@
-![Angel Quintero Banner](https://n1tr0xide.github.io/assets/banner.svg)
+![Banner](https://raw.githubusercontent.com/n1tr0xide/N1tr0xide/main/banner.svg)
+
+
 
 
 <p align="center">
