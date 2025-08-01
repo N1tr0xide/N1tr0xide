@@ -1,10 +1,5 @@
-![Banner](https://raw.githubusercontent.com/n1tr0xide/N1tr0xide/main/banner.svg)
-
-
-
-
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ea3fb,100:ef6ec1&height=100&section=header&text=Angel%20Quintero&fontSize=60&fontColor=000000&font=Sans-serif"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ea3fb,100:ef6ec1&height=100&section=header&text=Angel%20Quintero&fontSize=60&fontColor=777777&font=Sans-serif"/>
 </p>
 
 <h3 align="center">About me</h3>
