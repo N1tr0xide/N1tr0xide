@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Venezuelano 🇻🇪. || Gamer y desarrollador de videojuegos. || Gamer and Game Developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
 <h2 align="center">About me.</h2>
