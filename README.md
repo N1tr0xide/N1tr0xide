@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 <h1 align="center">Hi 👋, I'm Angel Quintero</h1>
 <h3 align="center">Venezuelano 🇻🇪. || Gamer y desarrollador de videojuegos. || Gamer and Game Developer.</h3>
+
+<h2 align="center">About me.</h2>
+```yaml
+* YOUR TEXT GOES HERE *
+```
 
 - 👨‍💻 You can play my games at [https://n1tr0xide.itch.io/](https://n1tr0xide.itch.io/)
 
