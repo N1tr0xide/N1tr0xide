@@ -38,15 +38,14 @@
 <hr> <!--Stats-->
 <p align="center">
     <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=n1tr0xide&show_icons=true&icon_color=7ea3fb&text_color=ffffff&theme=transparent" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=n1tr0xide&show_icons=true&theme=swift" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=n1tr0xide&show_icons=true"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=n1tr0xide&show_icons=true&icon_color=7ea3fb&text_color=ffffff&theme=transparent" media="(prefers-color-scheme: dark)" height="190px"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=n1tr0xide&show_icons=true&theme=swift" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height="190px"/>
+    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=n1tr0xide&show_icons=true"/>
     </picture>
-    <br><br>
     <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=n1tr0xide&show_icons=true&text_color=ffffff&theme=transparent&locale=en&layout=compact" alt="n1tr0xide" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=n1tr0xide&show_icons=true&theme=swift"&locale=en&layout=compact" alt="n1tr0xide" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=n1tr0xide&show_icons=true&locale=en&layout=compact" alt="n1tr0xide"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=n1tr0xide&show_icons=true&text_color=ffffff&theme=transparent&locale=en&layout=compact" alt="n1tr0xide" media="(prefers-color-scheme: dark)" height="190px"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=n1tr0xide&show_icons=true&theme=swift"&locale=en&layout=compact" alt="n1tr0xide" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height="190px"/>
+    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=n1tr0xide&show_icons=true&locale=en&layout=compact" alt="n1tr0xide"/>
     </picture>
 </p>
 
