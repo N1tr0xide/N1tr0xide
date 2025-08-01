@@ -1,3 +1,6 @@
+![Angel Quintero Banner](https://n1tr0xide.github.io/assets/banner.svg)
+
+
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ea3fb,100:ef6ec1&height=100&section=header&text=Angel%20Quintero&fontSize=60&fontColor=000000&font=Sans-serif"/>
 </p>
