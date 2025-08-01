@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7ea3fb,100:ef6ec1&height=100&section=header&text=Angel%20Quintero&fontSize=60&fontColor=ffffff&font=Sans-serif" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7ea3fb,100:ef6ec1&height=100&section=header&text=Angel%20Quintero&fontSize=60&fontColor=000000&font=Sans-serif" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ea3fb,100:ef6ec1&height=100&section=header&text=Angel%20Quintero&fontSize=60&fontColor=000000&font=Sans-serif"/>
-  </picture>
 </p>
 
 <h3 align="center">About me</h3>
