@@ -41,7 +41,7 @@
 
 <h3 align="center">Contact me</h3>
 <p align="center">
-    <a href="mailto:angelqv2023@gmail.com"> <img align="center" alt="Gmail" width="40 hight="40" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" /> </a>
+    <a href="mailto:angelqv2023@gmail.com"> <img align="center" src="images/gmail-logo.svg" alt="Gmail" width="45 hight="50"/> </a>
     <a href="https://linkedin.com/in/angel-quintero23"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="angel-quintero23" height="40" width="40"/> </a>
 </p>
 
