@@ -43,7 +43,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">Contactame</h3>
+<h3 align="center">Contáctame</h3>
 <p align="center">
     <a href="mailto:angelqv2023@gmail.com"> <img align="center" src="images/gmail-logo.svg" alt="Gmail" width="45 hight="50"/> </a>
     <a href="https://linkedin.com/in/angel-quintero23"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="angel-quintero23" height="40" width="40"/> </a>
