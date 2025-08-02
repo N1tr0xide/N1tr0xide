@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ea3fb,100:ef6ec1&height=150&section=header&text=Angel%20Quintero&fontSize=60&fontColor=FFFFFF&font=Sans-serif"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:408f91,50:5264fc,100:e767bc&height=150&section=header&text=Angel%20Quintero&fontSize=60&fontColor=FFFFFF&font=Sans-serif"/>
 </p>
 <p align="center">
   <strong>🎮<em>Programador de juegos | Unity y Unreal Engine</em>🎮</strong>
@@ -64,5 +64,5 @@
 </p>
 
 <p align="center"> <!--Footer-->
-  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:7ea3fb,100:ef6ec1&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:408f91,50:5264fc,100:e767bc&height=100&section=footer"/>
 </p>
