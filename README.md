@@ -15,13 +15,17 @@
   </tr>
 </table>
 
-- 👨‍💻 You can play my games at [https://n1tr0xide.itch.io/](https://n1tr0xide.itch.io/)
-- 📫 You can reach me at **angelqv2023@gmail.com**
+- 🇻🇪 Venezuelan. Fluent in both English & Spanish. 
+- 💻 Associate in Simulation & Game Development.
+- 🔭 Currently looking for a role as a Game Programmer.
+- 🌱 Learning Godot on the side.
+- 🏎️ Sim-racing & motorsports hobbyist.
+- 👨‍💻 Check out my games at [Itch.io](https://n1tr0xide.itch.io/)
 
 <h3 align="center">Tools</h3>
 <p align="center">
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a> 
-    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="40" height="40"/> </a> 
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="images/unity-logo.svg" alt="unity" width="40" height="40"/> </a> 
+    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="images/unreal-engine-logo.svg" alt="unreal" width="40" height="40"/> </a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xCode" width="40" height="40"/>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/></a> 
