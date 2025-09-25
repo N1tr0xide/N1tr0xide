@@ -51,11 +51,11 @@
 
 <hr> <!--Stats-->
 <p align="center">
-    <picture>
+    <!--<picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=n1tr0xide&show_icons=true&icon_color=7ea3fb&text_color=ffffff&theme=transparent&locale=es" media="(prefers-color-scheme: dark)" height="190px"/>
     <source srcset="https://github-readme-stats.vercel.app/api?username=n1tr0xide&show_icons=true&theme=swift&locale=es" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height="190px"/>
     <img height="190px" src="https://github-readme-stats.vercel.app/api?username=n1tr0xide&show_icons=true&locale=es"/>
-    </picture>
+    </picture>-->
     <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=n1tr0xide&show_icons=true&text_color=ffffff&theme=transparent&locale=es&layout=compact" alt="n1tr0xide" media="(prefers-color-scheme: dark)" height="190px"/>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=n1tr0xide&show_icons=true&theme=swift&locale=es&layout=compact" alt="n1tr0xide" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height="190px"/>
