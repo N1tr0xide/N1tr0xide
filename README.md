@@ -49,19 +49,21 @@
     <a href="https://linkedin.com/in/angel-quintero23"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="angel-quintero23" height="40" width="40"/> </a>
 </p>
 
-<hr> <!--Stats-->
+<!-- Stats
+<hr> 
 <p align="center">
-    <!--<picture>
+    
     Stats<source srcset="https://github-readme-stats.vercel.app/api?username=n1tr0xide&show_icons=true&icon_color=7ea3fb&text_color=ffffff&theme=transparent" media="(prefers-color-scheme: dark)" height="190px"/>
     <source srcset="https://github-readme-stats.vercel.app/api?username=n1tr0xide&show_icons=true&theme=swift" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height="190px"/>
     <img height="190px" src="https://github-readme-stats.vercel.app/api?username=n1tr0xide&show_icons=true"/>
-    </picture>-->
+   
     <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=n1tr0xide&show_icons=true&text_color=ffffff&theme=transparent&locale=en&layout=compact" alt="n1tr0xide" media="(prefers-color-scheme: dark)" height="190px"/>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=n1tr0xide&show_icons=true&theme=swift&locale=en&layout=compact" alt="n1tr0xide" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height="190px"/>
     <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=n1tr0xide&show_icons=true&locale=en&layout=compact" alt="n1tr0xide"/>
     </picture>
 </p>
+-->
 
 <p align="center"> <!--Footer-->
   <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:408f91,50:5264fc,100:e767bc&height=100&section=footer"/>
